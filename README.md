@@ -1,6 +1,6 @@
 
 
-# Geliştirme  Devam Ediyor..  
+# Master Branch'e bakınız :)
 
 
 # Getting Started with Create React App
